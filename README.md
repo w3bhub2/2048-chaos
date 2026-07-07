@@ -102,7 +102,7 @@ npm run lint
 npm run format
 ```
 
-ESLint and Prettier are configured with sensible defaults. See `eslint.config.js` and `.prettierrc.json`.
+ESLint and Prettier are configured with sensible defaults. See `eslint.config.js` for lint rules.
 
 ---
 
